@@ -21,10 +21,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <tool name="Clock">
       <a name="facing" val="north"/>
     </tool>
-    <tool name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0xff"/>
-    </tool>
   </lib>
   <lib desc="#Gates" name="1"/>
   <lib desc="#Plexers" name="2">
@@ -124,7 +120,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <circ-port height="10" pin="900,130" width="10" x="85" y="45"/>
       <circ-port height="10" pin="990,130" width="10" x="105" y="45"/>
       <circ-port height="10" pin="1080,130" width="10" x="125" y="45"/>
-      <circ-port height="8" pin="70,810" width="8" x="116" y="126"/>
       <circ-anchor facing="east" height="6" width="6" x="137" y="77"/>
     </appear>
     <wire from="(1320,520)" to="(1320,540)"/>
@@ -176,6 +171,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1620,580)" to="(1640,580)"/>
     <wire from="(1620,740)" to="(1640,740)"/>
     <wire from="(1620,260)" to="(1640,260)"/>
+    <wire from="(80,810)" to="(90,810)"/>
     <wire from="(790,400)" to="(800,400)"/>
     <wire from="(790,880)" to="(800,880)"/>
     <wire from="(750,520)" to="(760,520)"/>
@@ -455,7 +451,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(740,890)" to="(740,910)"/>
     <wire from="(1050,520)" to="(1060,520)"/>
     <wire from="(1050,1000)" to="(1060,1000)"/>
-    <wire from="(70,810)" to="(90,810)"/>
     <wire from="(130,870)" to="(150,870)"/>
     <wire from="(130,710)" to="(150,710)"/>
     <wire from="(1550,270)" to="(1640,270)"/>
@@ -1238,6 +1233,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
     </comp>
+    <comp lib="0" loc="(80,810)" name="Constant"/>
     <comp lib="4" loc="(1050,520)" name="Register">
       <a name="width" val="32"/>
       <a name="label" val="Reg$t2"/>
@@ -1381,9 +1377,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(70,810)" name="Pin">
-      <a name="tristate" val="false"/>
     </comp>
     <comp loc="(750,1000)" name="WR Selector"/>
     <comp lib="4" loc="(530,880)" name="Register">
