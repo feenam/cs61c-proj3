@@ -140,11 +140,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1060,1020)" to="(1070,1020)"/>
     <wire from="(720,670)" to="(740,670)"/>
     <wire from="(720,1150)" to="(740,1150)"/>
-    <wire from="(500,300)" to="(510,300)"/>
     <wire from="(720,520)" to="(730,520)"/>
     <wire from="(720,1000)" to="(730,1000)"/>
-    <wire from="(540,500)" to="(550,500)"/>
     <wire from="(540,660)" to="(550,660)"/>
+    <wire from="(540,500)" to="(550,500)"/>
     <wire from="(540,980)" to="(550,980)"/>
     <wire from="(540,1140)" to="(550,1140)"/>
     <wire from="(1240,550)" to="(1260,550)"/>
@@ -182,7 +181,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1060,1000)" to="(1060,1020)"/>
     <wire from="(230,170)" to="(230,180)"/>
     <wire from="(990,130)" to="(990,160)"/>
-    <wire from="(500,280)" to="(500,300)"/>
     <wire from="(60,540)" to="(230,540)"/>
     <wire from="(800,260)" to="(800,280)"/>
     <wire from="(800,740)" to="(800,760)"/>
@@ -243,6 +241,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(800,520)" to="(800,540)"/>
     <wire from="(800,1000)" to="(800,1020)"/>
     <wire from="(540,740)" to="(540,760)"/>
+    <wire from="(540,260)" to="(540,280)"/>
     <wire from="(130,660)" to="(220,660)"/>
     <wire from="(130,820)" to="(220,820)"/>
     <wire from="(1240,280)" to="(1250,280)"/>
@@ -279,6 +278,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1270,280)" to="(1280,280)"/>
     <wire from="(1270,760)" to="(1280,760)"/>
     <wire from="(230,400)" to="(230,440)"/>
+    <wire from="(480,280)" to="(500,280)"/>
     <wire from="(130,730)" to="(150,730)"/>
     <wire from="(130,890)" to="(150,890)"/>
     <wire from="(1550,770)" to="(1640,770)"/>
@@ -351,6 +351,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1010,280)" to="(1020,280)"/>
     <wire from="(1010,760)" to="(1020,760)"/>
     <wire from="(530,760)" to="(540,760)"/>
+    <wire from="(530,280)" to="(540,280)"/>
     <wire from="(1320,280)" to="(1320,300)"/>
     <wire from="(1320,760)" to="(1320,780)"/>
     <wire from="(1320,1080)" to="(1320,1100)"/>
@@ -358,7 +359,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1060,500)" to="(1060,520)"/>
     <wire from="(1060,980)" to="(1060,1000)"/>
     <wire from="(1100,150)" to="(1140,150)"/>
-    <wire from="(500,260)" to="(500,280)"/>
     <wire from="(800,400)" to="(800,420)"/>
     <wire from="(800,880)" to="(800,900)"/>
     <wire from="(800,720)" to="(800,740)"/>
@@ -380,6 +380,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(540,740)" to="(550,740)"/>
     <wire from="(540,900)" to="(550,900)"/>
     <wire from="(1240,310)" to="(1260,310)"/>
+    <wire from="(540,260)" to="(550,260)"/>
     <wire from="(1240,790)" to="(1260,790)"/>
     <wire from="(770,660)" to="(770,670)"/>
     <wire from="(2020,400)" to="(2020,620)"/>
@@ -453,12 +454,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1050,1000)" to="(1060,1000)"/>
     <wire from="(130,870)" to="(150,870)"/>
     <wire from="(130,710)" to="(150,710)"/>
+    <wire from="(490,760)" to="(500,760)"/>
     <wire from="(1550,270)" to="(1640,270)"/>
     <wire from="(1550,750)" to="(1640,750)"/>
     <wire from="(1550,590)" to="(1640,590)"/>
     <wire from="(1550,430)" to="(1640,430)"/>
-    <wire from="(490,760)" to="(500,760)"/>
-    <wire from="(490,280)" to="(500,280)"/>
     <wire from="(1620,600)" to="(1640,600)"/>
     <wire from="(1620,440)" to="(1640,440)"/>
     <wire from="(1620,760)" to="(1640,760)"/>
@@ -487,7 +487,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1060,1140)" to="(1070,1140)"/>
     <wire from="(720,310)" to="(740,310)"/>
     <wire from="(720,790)" to="(740,790)"/>
-    <wire from="(500,260)" to="(510,260)"/>
     <wire from="(60,170)" to="(60,540)"/>
     <wire from="(1830,460)" to="(1850,460)"/>
     <wire from="(720,640)" to="(730,640)"/>
@@ -495,6 +494,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(540,620)" to="(550,620)"/>
     <wire from="(540,780)" to="(550,780)"/>
     <wire from="(540,1100)" to="(550,1100)"/>
+    <wire from="(540,300)" to="(550,300)"/>
     <wire from="(1240,670)" to="(1260,670)"/>
     <wire from="(1240,1150)" to="(1260,1150)"/>
     <wire from="(770,540)" to="(770,550)"/>
@@ -535,6 +535,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(800,380)" to="(800,400)"/>
     <wire from="(800,860)" to="(800,880)"/>
     <wire from="(540,760)" to="(540,780)"/>
+    <wire from="(540,280)" to="(540,300)"/>
     <wire from="(1320,380)" to="(1330,380)"/>
     <wire from="(1320,540)" to="(1330,540)"/>
     <wire from="(1320,860)" to="(1330,860)"/>
@@ -588,883 +589,149 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1630,480)" to="(1660,480)"/>
     <wire from="(530,520)" to="(540,520)"/>
     <wire from="(530,1000)" to="(540,1000)"/>
-    <comp lib="0" loc="(720,640)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp loc="(1010,1120)" name="WR Selector"/>
+    <comp lib="0" loc="(550,500)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
+      <a name="label" val="RR1 - $t0"/>
     </comp>
-    <comp lib="0" loc="(1620,620)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp lib="0" loc="(220,880)" name="Tunnel">
+      <a name="label" val="WR - $s7"/>
+    </comp>
+    <comp loc="(490,1000)" name="WR Selector"/>
+    <comp lib="0" loc="(810,1140)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a1"/>
+      <a name="label" val="RR2 - $sp"/>
     </comp>
-    <comp lib="0" loc="(810,860)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s5"/>
+    <comp lib="0" loc="(210,460)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="Write Enable"/>
     </comp>
-    <comp lib="0" loc="(810,260)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $at "/>
-    </comp>
-    <comp lib="0" loc="(1330,260)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $v1"/>
-    </comp>
-    <comp lib="0" loc="(220,760)" name="Tunnel">
-      <a name="label" val="WR - $t3"/>
-    </comp>
-    <comp lib="0" loc="(460,1150)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $gp"/>
-    </comp>
-    <comp lib="0" loc="(980,670)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t6"/>
-    </comp>
-    <comp lib="0" loc="(1290,790)" name="Tunnel">
+    <comp lib="0" loc="(1030,670)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1070,1100)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $fp"/>
-    </comp>
-    <comp lib="4" loc="(530,760)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s0"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp loc="(1010,400)" name="WR Selector"/>
-    <comp lib="0" loc="(510,1150)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1620,580)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $at"/>
-    </comp>
-    <comp lib="0" loc="(230,460)" name="Tunnel">
-      <a name="label" val="write_en"/>
-    </comp>
-    <comp lib="0" loc="(510,1030)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp loc="(1270,280)" name="WR Selector"/>
-    <comp lib="0" loc="(1080,130)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$ra Value"/>
-      <a name="labelloc" val="north"/>
-    </comp>
-    <comp lib="0" loc="(1620,660)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t1"/>
-    </comp>
-    <comp lib="0" loc="(1620,300)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s1"/>
-    </comp>
-    <comp lib="0" loc="(980,880)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(550,900)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s4"/>
-    </comp>
-    <comp lib="0" loc="(1030,1150)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1070,900)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s6"/>
-    </comp>
-    <comp loc="(750,520)" name="WR Selector"/>
-    <comp lib="0" loc="(720,670)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t5"/>
-    </comp>
-    <comp lib="0" loc="(1030,910)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="4" loc="(1050,400)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$a2"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="4" loc="(790,1120)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$sp"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1620,600)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $v1"/>
-    </comp>
-    <comp lib="0" loc="(1550,690)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t4"/>
-    </comp>
-    <comp lib="0" loc="(980,640)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp loc="(1010,520)" name="WR Selector"/>
-    <comp lib="0" loc="(510,300)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $0 "/>
-    </comp>
-    <comp lib="0" loc="(1620,320)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s3"/>
-    </comp>
-    <comp lib="0" loc="(510,790)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1620,280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t7"/>
-    </comp>
-    <comp lib="4" loc="(1310,520)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$t3"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
     <comp lib="0" loc="(1550,150)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $v0"/>
     </comp>
-    <comp lib="0" loc="(1550,870)" name="Tunnel">
+    <comp lib="0" loc="(1620,420)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $fp"/>
+      <a name="label" val="RR1 - $sp"/>
     </comp>
-    <comp lib="4" loc="(1310,1120)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$ra"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1550,670)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t2"/>
-    </comp>
-    <comp lib="0" loc="(1070,260)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $v0 "/>
-    </comp>
-    <comp lib="0" loc="(210,380)" name="Pin">
-      <a name="width" val="32"/>
-      <a name="tristate" val="false"/>
-      <a name="label" val="Write Data"/>
-    </comp>
-    <comp lib="0" loc="(220,860)" name="Tunnel">
-      <a name="label" val="WR - $s5"/>
-    </comp>
-    <comp lib="0" loc="(980,790)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $s2"/>
-    </comp>
-    <comp lib="0" loc="(720,1150)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $sp"/>
-    </comp>
-    <comp lib="0" loc="(1330,540)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t3"/>
-    </comp>
-    <comp lib="0" loc="(220,660)" name="Tunnel">
-      <a name="label" val="WR - $at"/>
-    </comp>
-    <comp lib="0" loc="(720,520)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(810,1140)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $sp"/>
-    </comp>
-    <comp lib="0" loc="(1330,1140)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $ra"/>
-    </comp>
-    <comp lib="4" loc="(790,520)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$t1"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(550,860)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s4"/>
-    </comp>
-    <comp lib="0" loc="(220,960)" name="Tunnel">
-      <a name="label" val="WR - $ra"/>
-    </comp>
-    <comp lib="0" loc="(230,250)" name="Tunnel">
-      <a name="width" val="5"/>
-      <a name="label" val="read_reg2"/>
-    </comp>
-    <comp lib="0" loc="(1070,620)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t6"/>
-    </comp>
-    <comp lib="0" loc="(1100,720)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s2 Value"/>
-    </comp>
-    <comp loc="(1010,280)" name="WR Selector"/>
-    <comp lib="0" loc="(1240,1150)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $ra"/>
-    </comp>
-    <comp lib="0" loc="(1330,660)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t7"/>
-    </comp>
-    <comp lib="0" loc="(510,430)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1550,730)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s0"/>
-    </comp>
-    <comp lib="0" loc="(1550,570)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $0 "/>
-    </comp>
-    <comp lib="0" loc="(990,130)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s2 Value"/>
-      <a name="labelloc" val="north"/>
-    </comp>
-    <comp lib="0" loc="(460,550)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t0"/>
-    </comp>
-    <comp lib="0" loc="(720,910)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $s5"/>
-    </comp>
-    <comp lib="0" loc="(1620,140)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $at"/>
-    </comp>
-    <comp loc="(490,640)" name="WR Selector"/>
-    <comp lib="0" loc="(550,540)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t0"/>
-    </comp>
-    <comp lib="0" loc="(460,910)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $s4"/>
-    </comp>
-    <comp lib="0" loc="(1080,160)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$ra Value"/>
-    </comp>
-    <comp lib="0" loc="(1070,380)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $a2"/>
-    </comp>
-    <comp loc="(1270,1000)" name="WR Selector"/>
-    <comp lib="0" loc="(220,700)" name="Tunnel">
-      <a name="label" val="WR - $a1"/>
-    </comp>
-    <comp lib="0" loc="(220,740)" name="Tunnel">
-      <a name="label" val="WR - $t1"/>
-    </comp>
-    <comp lib="0" loc="(550,660)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t4"/>
-    </comp>
-    <comp lib="0" loc="(1070,860)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s6"/>
-    </comp>
-    <comp lib="0" loc="(510,910)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="2" loc="(1680,290)" name="Multiplexer">
-      <a name="select" val="5"/>
-      <a name="width" val="32"/>
-      <a name="enable" val="false"/>
-    </comp>
-    <comp lib="0" loc="(460,1000)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="4" loc="(790,640)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$t5"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1550,130)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $0 "/>
-    </comp>
-    <comp lib="0" loc="(460,1120)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(550,380)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $a0"/>
-    </comp>
-    <comp lib="0" loc="(1030,430)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(220,880)" name="Tunnel">
-      <a name="label" val="WR - $s7"/>
-    </comp>
-    <comp loc="(1270,760)" name="WR Selector"/>
-    <comp lib="0" loc="(1290,310)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(580,720)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s0 Value"/>
-    </comp>
-    <comp lib="0" loc="(460,760)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="4" loc="(1310,760)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s3"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(720,430)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $a1"/>
-    </comp>
-    <comp lib="0" loc="(1330,420)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a3"/>
-    </comp>
-    <comp lib="0" loc="(210,460)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="Write Enable"/>
-    </comp>
-    <comp lib="0" loc="(550,500)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t0"/>
-    </comp>
-    <comp lib="0" loc="(510,260)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $0 "/>
-    </comp>
-    <comp lib="0" loc="(1070,420)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a2"/>
-    </comp>
-    <comp loc="(1270,1120)" name="WR Selector"/>
-    <comp lib="0" loc="(1620,220)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t1"/>
-    </comp>
-    <comp loc="(1010,760)" name="WR Selector"/>
-    <comp lib="0" loc="(1240,670)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t7"/>
-    </comp>
-    <comp lib="0" loc="(810,620)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t5"/>
-    </comp>
-    <comp lib="0" loc="(230,380)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(810,380)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $a1"/>
-    </comp>
-    <comp lib="0" loc="(1620,180)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $a1"/>
-    </comp>
-    <comp lib="0" loc="(220,840)" name="Tunnel">
-      <a name="label" val="WR - $s3"/>
-    </comp>
-    <comp lib="4" loc="(1310,1000)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$k1"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="4" loc="(1050,640)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$t6"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1620,640)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a3"/>
-    </comp>
-    <comp lib="0" loc="(550,620)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t4"/>
-    </comp>
-    <comp lib="0" loc="(720,280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(810,160)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s0 Value"/>
+    <comp lib="0" loc="(150,870)" name="Tunnel">
+      <a name="label" val="WR - $s6"/>
     </comp>
     <comp lib="0" loc="(1030,1030)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
     </comp>
-    <comp lib="0" loc="(1830,460)" name="Tunnel">
+    <comp lib="0" loc="(1550,770)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="read_data1"/>
+      <a name="label" val="RR2 - $s4"/>
     </comp>
-    <comp lib="0" loc="(460,790)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $s0"/>
-    </comp>
-    <comp lib="0" loc="(150,830)" name="Tunnel">
-      <a name="label" val="WR - $s2"/>
-    </comp>
-    <comp lib="2" loc="(1680,730)" name="Multiplexer">
-      <a name="select" val="5"/>
-      <a name="width" val="32"/>
-      <a name="enable" val="false"/>
-    </comp>
-    <comp lib="0" loc="(220,800)" name="Tunnel">
-      <a name="label" val="WR - $t7"/>
-    </comp>
-    <comp lib="0" loc="(810,780)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s1"/>
-    </comp>
-    <comp lib="0" loc="(980,760)" name="Tunnel">
+    <comp lib="0" loc="(1620,680)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
+      <a name="label" val="RR2 - $t3"/>
     </comp>
-    <comp lib="0" loc="(230,300)" name="Tunnel">
-      <a name="width" val="5"/>
-      <a name="label" val="write_reg"/>
-    </comp>
-    <comp lib="0" loc="(810,420)" name="Tunnel">
+    <comp lib="0" loc="(550,660)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a1"/>
-    </comp>
-    <comp lib="0" loc="(1330,980)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $k1"/>
-    </comp>
-    <comp lib="0" loc="(150,650)" name="Tunnel">
-      <a name="label" val="WR - $0 "/>
-    </comp>
-    <comp lib="0" loc="(1070,980)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $k0"/>
-    </comp>
-    <comp lib="0" loc="(1620,860)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $sp"/>
-    </comp>
-    <comp lib="0" loc="(1030,550)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(980,280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(1290,1030)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(550,980)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t8"/>
-    </comp>
-    <comp lib="0" loc="(510,670)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1070,500)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t2"/>
-    </comp>
-    <comp lib="0" loc="(550,420)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a0"/>
+      <a name="label" val="RR2 - $t4"/>
     </comp>
     <comp lib="0" loc="(70,980)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="write_en"/>
     </comp>
-    <comp lib="0" loc="(1240,790)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $s3"/>
-    </comp>
-    <comp lib="0" loc="(150,670)" name="Tunnel">
-      <a name="label" val="WR - $v0"/>
-    </comp>
-    <comp lib="0" loc="(1720,290)" name="Tunnel">
+    <comp lib="0" loc="(550,620)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="read_data1"/>
-    </comp>
-    <comp lib="0" loc="(1620,240)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t3"/>
-    </comp>
-    <comp lib="0" loc="(150,890)" name="Tunnel">
-      <a name="label" val="WR - $t8"/>
-    </comp>
-    <comp lib="0" loc="(1550,330)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s4"/>
-    </comp>
-    <comp loc="(750,400)" name="WR Selector"/>
-    <comp lib="0" loc="(150,950)" name="Tunnel">
-      <a name="label" val="WR - $fp"/>
-    </comp>
-    <comp loc="(1010,1000)" name="WR Selector"/>
-    <comp lib="0" loc="(1290,1150)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1850,560)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-      <a name="label" val="Read Data 2"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="4" loc="(1050,1000)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$k0"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1030,790)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1330,780)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s3"/>
-    </comp>
-    <comp lib="4" loc="(1310,880)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s7"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(220,900)" name="Tunnel">
-      <a name="label" val="WR - $t9"/>
-    </comp>
-    <comp lib="0" loc="(1240,310)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $v1"/>
-    </comp>
-    <comp lib="4" loc="(530,400)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$a0"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(210,510)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="Clock"/>
-    </comp>
-    <comp lib="0" loc="(980,910)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $s6"/>
-    </comp>
-    <comp lib="0" loc="(1240,1030)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $k1"/>
-    </comp>
-    <comp lib="0" loc="(1850,460)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-      <a name="label" val="Read Data 1"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(460,880)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(80,810)" name="Constant"/>
-    <comp lib="4" loc="(1050,520)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$t2"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(460,520)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="6" loc="(1923,382)" name="Text">
-      <a name="text" val="OUTPUTS from your circuit"/>
-    </comp>
-    <comp lib="0" loc="(150,730)" name="Tunnel">
-      <a name="label" val="WR - $t0"/>
-    </comp>
-    <comp lib="0" loc="(220,820)" name="Tunnel">
-      <a name="label" val="WR - $s1"/>
-    </comp>
-    <comp lib="0" loc="(1330,740)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s3"/>
+      <a name="label" val="RR1 - $t4"/>
     </comp>
     <comp lib="0" loc="(770,310)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
     </comp>
-    <comp lib="0" loc="(720,1120)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp loc="(490,1120)" name="WR Selector"/>
-    <comp lib="0" loc="(770,430)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(980,550)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t2"/>
-    </comp>
-    <comp lib="0" loc="(810,1100)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $sp"/>
-    </comp>
-    <comp lib="0" loc="(460,670)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t4"/>
-    </comp>
-    <comp lib="0" loc="(1620,740)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s1"/>
-    </comp>
-    <comp lib="0" loc="(550,740)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s0"/>
-    </comp>
-    <comp lib="0" loc="(980,1000)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(1550,270)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t6"/>
-    </comp>
-    <comp lib="0" loc="(720,550)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t1"/>
-    </comp>
-    <comp lib="4" loc="(790,1000)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$t9"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1830,560)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="read_data2"/>
-    </comp>
-    <comp loc="(1270,640)" name="WR Selector"/>
-    <comp lib="0" loc="(1070,1020)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $k0"/>
-    </comp>
-    <comp lib="0" loc="(220,940)" name="Tunnel">
-      <a name="label" val="WR - $sp"/>
-    </comp>
-    <comp loc="(490,1000)" name="WR Selector"/>
-    <comp loc="(490,880)" name="WR Selector"/>
-    <comp lib="0" loc="(1240,430)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $a3"/>
-    </comp>
-    <comp lib="0" loc="(720,790)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $s1"/>
-    </comp>
-    <comp lib="4" loc="(1310,280)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$v1"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1550,750)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s2"/>
-    </comp>
-    <comp lib="0" loc="(230,510)" name="Tunnel">
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="4" loc="(790,760)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s1"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1240,520)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
     <comp lib="0" loc="(1240,910)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="WR - $s7"/>
     </comp>
-    <comp lib="0" loc="(810,1020)" name="Tunnel">
+    <comp lib="0" loc="(150,830)" name="Tunnel">
+      <a name="label" val="WR - $s2"/>
+    </comp>
+    <comp lib="0" loc="(810,620)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t9"/>
+      <a name="label" val="RR1 - $t5"/>
     </comp>
-    <comp lib="0" loc="(220,780)" name="Tunnel">
-      <a name="label" val="WR - $t5"/>
-    </comp>
-    <comp lib="0" loc="(1550,830)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $k0"/>
-    </comp>
-    <comp lib="0" loc="(460,400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp loc="(750,1000)" name="WR Selector"/>
-    <comp lib="4" loc="(530,880)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s4"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(770,790)" name="Tunnel">
+    <comp lib="0" loc="(1290,550)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
     </comp>
-    <comp lib="0" loc="(1330,620)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t7"/>
-    </comp>
-    <comp lib="0" loc="(1550,410)" name="Tunnel">
+    <comp lib="0" loc="(1620,600)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR1 - $gp"/>
+      <a name="label" val="RR2 - $v1"/>
+    </comp>
+    <comp lib="0" loc="(1240,1150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $ra"/>
+    </comp>
+    <comp lib="0" loc="(980,1150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $fp"/>
+    </comp>
+    <comp lib="0" loc="(550,260)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $0 "/>
+    </comp>
+    <comp lib="0" loc="(460,1150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $gp"/>
+    </comp>
+    <comp loc="(1270,1120)" name="WR Selector"/>
+    <comp lib="0" loc="(1720,290)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="read_data1"/>
+    </comp>
+    <comp lib="0" loc="(230,380)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(220,740)" name="Tunnel">
+      <a name="label" val="WR - $t1"/>
+    </comp>
+    <comp lib="0" loc="(810,1100)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $sp"/>
     </comp>
     <comp lib="0" loc="(210,250)" name="Pin">
       <a name="width" val="5"/>
       <a name="tristate" val="false"/>
       <a name="label" val="Read Register 2"/>
     </comp>
-    <comp lib="0" loc="(1070,660)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t6"/>
+    <comp lib="0" loc="(150,930)" name="Tunnel">
+      <a name="label" val="WR - $gp"/>
     </comp>
-    <comp lib="0" loc="(1240,880)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp lib="0" loc="(1330,300)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
+      <a name="label" val="RR2 - $v1"/>
     </comp>
-    <comp lib="0" loc="(210,300)" name="Pin">
-      <a name="width" val="5"/>
-      <a name="tristate" val="false"/>
-      <a name="label" val="Write Register"/>
-    </comp>
-    <comp lib="0" loc="(460,640)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp lib="4" loc="(1050,1120)" name="Register">
       <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(720,1000)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(1550,170)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $a0"/>
-    </comp>
-    <comp lib="0" loc="(720,400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(1550,810)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t8"/>
-    </comp>
-    <comp loc="(490,400)" name="WR Selector"/>
-    <comp lib="0" loc="(1550,790)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s6"/>
-    </comp>
-    <comp lib="0" loc="(810,130)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s0 Value"/>
-      <a name="labelloc" val="north"/>
-    </comp>
-    <comp lib="4" loc="(1050,280)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$v0"/>
+      <a name="label" val="Reg$fp"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(1550,430)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp lib="0" loc="(1070,1100)" name="Tunnel">
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $fp"/>
     </comp>
-    <comp lib="0" loc="(510,550)" name="Tunnel">
+    <comp lib="0" loc="(1620,640)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $a3"/>
+    </comp>
+    <comp lib="0" loc="(1290,1030)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
     </comp>
@@ -1472,108 +739,273 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $a3"/>
     </comp>
-    <comp lib="0" loc="(1550,370)" name="Tunnel">
+    <comp lib="0" loc="(1620,840)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t8"/>
+      <a name="label" val="RR2 - $k1"/>
     </comp>
-    <comp lib="4" loc="(790,280)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$at"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="4" loc="(1310,400)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$a3"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1550,770)" name="Tunnel">
+    <comp lib="0" loc="(1550,710)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s4"/>
+      <a name="label" val="RR2 - $t6"/>
     </comp>
-    <comp lib="0" loc="(810,500)" name="Tunnel">
+    <comp lib="0" loc="(980,790)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $s2"/>
+    </comp>
+    <comp loc="(750,280)" name="WR Selector"/>
+    <comp lib="4" loc="(530,280)" name="Register">
       <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t1"/>
+      <a name="label" val="Reg $0"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(1290,550)" name="Tunnel">
+    <comp lib="0" loc="(770,430)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(150,710)" name="Tunnel">
-      <a name="label" val="WR - $a2"/>
-    </comp>
-    <comp lib="0" loc="(150,810)" name="Tunnel">
-      <a name="label" val="WR - $s0"/>
     </comp>
     <comp lib="0" loc="(150,910)" name="Tunnel">
       <a name="label" val="WR - $k0"/>
     </comp>
-    <comp loc="(750,640)" name="WR Selector"/>
-    <comp lib="0" loc="(770,550)" name="Tunnel">
+    <comp lib="0" loc="(1290,1150)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(150,810)" name="Tunnel">
+      <a name="label" val="WR - $s0"/>
+    </comp>
+    <comp lib="0" loc="(1240,550)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t3"/>
+    </comp>
+    <comp lib="0" loc="(1620,740)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s1"/>
+    </comp>
+    <comp lib="0" loc="(1550,690)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t4"/>
+    </comp>
+    <comp lib="0" loc="(810,380)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $a1"/>
+    </comp>
+    <comp lib="0" loc="(460,790)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $s0"/>
+    </comp>
+    <comp lib="0" loc="(1290,430)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(810,260)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $at "/>
+    </comp>
+    <comp lib="0" loc="(510,430)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="4" loc="(790,640)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$t5"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1070,860)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s6"/>
+    </comp>
+    <comp lib="0" loc="(1550,670)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t2"/>
+    </comp>
+    <comp lib="0" loc="(1330,260)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $v1"/>
+    </comp>
+    <comp lib="4" loc="(1310,280)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$v1"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="6" loc="(1923,382)" name="Text">
+      <a name="text" val="OUTPUTS from your circuit"/>
+    </comp>
+    <comp loc="(1270,520)" name="WR Selector"/>
+    <comp lib="0" loc="(460,880)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(1330,1020)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $k1"/>
+    </comp>
+    <comp lib="0" loc="(1620,340)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s5"/>
+    </comp>
+    <comp loc="(750,400)" name="WR Selector"/>
+    <comp lib="0" loc="(1550,270)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t6"/>
+    </comp>
+    <comp lib="0" loc="(1030,550)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(1830,560)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="read_data2"/>
+    </comp>
+    <comp lib="0" loc="(1550,250)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t4"/>
+    </comp>
+    <comp lib="4" loc="(1050,760)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$s2"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1830,460)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="read_data1"/>
+    </comp>
+    <comp lib="4" loc="(1050,400)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$a2"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
     <comp lib="0" loc="(210,200)" name="Pin">
       <a name="width" val="5"/>
       <a name="tristate" val="false"/>
       <a name="label" val="Read Register 1"/>
     </comp>
-    <comp lib="6" loc="(149,163)" name="Text">
-      <a name="text" val="INPUTS to your circuit"/>
-    </comp>
-    <comp lib="0" loc="(1070,300)" name="Tunnel">
+    <comp lib="0" loc="(1620,400)" name="Tunnel">
+      <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $v0"/>
+      <a name="label" val="RR1 - $k1"/>
     </comp>
-    <comp lib="0" loc="(1030,310)" name="Tunnel">
+    <comp lib="0" loc="(810,780)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s1"/>
+    </comp>
+    <comp lib="0" loc="(210,380)" name="Pin">
+      <a name="width" val="32"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="Write Data"/>
+    </comp>
+    <comp lib="0" loc="(1550,650)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t0"/>
+    </comp>
+    <comp lib="0" loc="(810,740)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s1"/>
+    </comp>
+    <comp lib="4" loc="(1050,1000)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$k0"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(510,1030)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
     </comp>
-    <comp lib="0" loc="(1240,1000)" name="Tunnel">
+    <comp lib="0" loc="(1070,380)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $a2"/>
+    </comp>
+    <comp lib="0" loc="(460,640)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
     </comp>
-    <comp lib="0" loc="(220,720)" name="Tunnel">
-      <a name="label" val="WR - $a3"/>
+    <comp lib="0" loc="(220,800)" name="Tunnel">
+      <a name="label" val="WR - $t7"/>
     </comp>
-    <comp lib="0" loc="(770,670)" name="Tunnel">
+    <comp lib="0" loc="(150,670)" name="Tunnel">
+      <a name="label" val="WR - $v0"/>
+    </comp>
+    <comp lib="0" loc="(1290,910)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="clk"/>
     </comp>
-    <comp lib="4" loc="(790,400)" name="Register">
+    <comp lib="0" loc="(770,1150)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(510,790)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(210,300)" name="Pin">
+      <a name="width" val="5"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="Write Register"/>
+    </comp>
+    <comp lib="0" loc="(720,1030)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t9"/>
+    </comp>
+    <comp lib="4" loc="(1310,520)" name="Register">
       <a name="width" val="32"/>
-      <a name="label" val="Reg$a1"/>
+      <a name="label" val="Reg$t3"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="6" loc="(525,78)" name="Text">
-      <a name="text" val="DON'T CHANGE THE LOCATIONS OF THE INPUTS AND OUTPUTS!"/>
+    <comp lib="0" loc="(460,760)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
     </comp>
     <comp lib="0" loc="(150,750)" name="Tunnel">
       <a name="label" val="WR - $t2"/>
     </comp>
-    <comp lib="0" loc="(550,780)" name="Tunnel">
+    <comp lib="0" loc="(810,420)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s0"/>
+      <a name="label" val="RR2 - $a1"/>
     </comp>
-    <comp lib="0" loc="(1360,1080)" name="Tunnel">
-      <a name="facing" val="south"/>
+    <comp lib="4" loc="(1310,880)" name="Register">
       <a name="width" val="32"/>
-      <a name="label" val="$ra Value"/>
+      <a name="label" val="Reg$s7"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(1240,280)" name="Tunnel">
+    <comp lib="4" loc="(1050,520)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$t2"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1070,620)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t6"/>
+    </comp>
+    <comp lib="0" loc="(1550,130)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
+      <a name="label" val="RR1 - $0 "/>
     </comp>
-    <comp lib="0" loc="(1620,920)" name="Tunnel">
+    <comp loc="(1270,640)" name="WR Selector"/>
+    <comp lib="0" loc="(720,790)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="width" val="5"/>
-      <a name="label" val="read_reg2"/>
+      <a name="label" val="WR - $s1"/>
     </comp>
-    <comp loc="(750,760)" name="WR Selector"/>
-    <comp loc="(1270,520)" name="WR Selector"/>
+    <comp loc="(490,760)" name="WR Selector"/>
+    <comp lib="0" loc="(720,430)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $a1"/>
+    </comp>
+    <comp lib="0" loc="(980,910)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $s6"/>
+    </comp>
     <comp lib="4" loc="(530,640)" name="Register">
       <a name="width" val="32"/>
       <a name="label" val="Reg$t4"/>
@@ -1583,125 +1015,565 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $s7"/>
     </comp>
-    <comp lib="0" loc="(1620,840)" name="Tunnel">
+    <comp lib="0" loc="(1620,320)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $k1"/>
+      <a name="label" val="RR1 - $s3"/>
     </comp>
-    <comp lib="4" loc="(530,1000)" name="Register">
+    <comp lib="0" loc="(80,810)" name="Constant"/>
+    <comp lib="0" loc="(720,760)" name="Tunnel">
+      <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="Reg$t8"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(720,310)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $at"/>
+    </comp>
+    <comp lib="0" loc="(980,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(220,960)" name="Tunnel">
+      <a name="label" val="WR - $ra"/>
+    </comp>
+    <comp lib="0" loc="(810,660)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t5"/>
+    </comp>
+    <comp lib="0" loc="(150,850)" name="Tunnel">
+      <a name="label" val="WR - $s4"/>
+    </comp>
+    <comp lib="0" loc="(1550,290)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s0"/>
+    </comp>
+    <comp lib="0" loc="(550,980)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t8"/>
+    </comp>
+    <comp lib="0" loc="(220,720)" name="Tunnel">
+      <a name="label" val="WR - $a3"/>
+    </comp>
+    <comp lib="0" loc="(1030,430)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp loc="(750,880)" name="WR Selector"/>
+    <comp lib="0" loc="(980,430)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $a2"/>
+    </comp>
+    <comp lib="0" loc="(980,670)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t6"/>
+    </comp>
+    <comp loc="(1010,640)" name="WR Selector"/>
+    <comp lib="0" loc="(810,540)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t1"/>
+    </comp>
+    <comp lib="0" loc="(1070,540)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t2"/>
+    </comp>
+    <comp lib="0" loc="(980,760)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(220,940)" name="Tunnel">
+      <a name="label" val="WR - $sp"/>
+    </comp>
+    <comp lib="4" loc="(530,760)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$s0"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(1550,630)" name="Tunnel">
+    <comp lib="0" loc="(1240,310)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a2"/>
-    </comp>
-    <comp loc="(750,1120)" name="WR Selector"/>
-    <comp lib="0" loc="(1620,260)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t5"/>
+      <a name="label" val="WR - $v1"/>
     </comp>
     <comp lib="0" loc="(230,200)" name="Tunnel">
       <a name="width" val="5"/>
       <a name="label" val="read_reg1"/>
     </comp>
-    <comp lib="0" loc="(1620,720)" name="Tunnel">
+    <comp lib="4" loc="(1050,640)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$t6"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(980,310)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $v0"/>
+    </comp>
+    <comp lib="0" loc="(1620,180)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t7"/>
+      <a name="label" val="RR1 - $a1"/>
     </comp>
-    <comp lib="6" loc="(940,18)" name="Text">
-      <a name="text" val="These are DEBUG/TEST outputs from your circuit."/>
+    <comp lib="0" loc="(230,510)" name="Tunnel">
+      <a name="label" val="clk"/>
     </comp>
-    <comp lib="0" loc="(1550,850)" name="Tunnel">
+    <comp lib="0" loc="(1240,640)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $gp"/>
+      <a name="label" val="write_data"/>
     </comp>
-    <comp lib="0" loc="(1620,420)" name="Tunnel">
+    <comp lib="0" loc="(1620,360)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR1 - $sp"/>
+      <a name="label" val="RR1 - $s7"/>
     </comp>
     <comp lib="0" loc="(1550,310)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $s2"/>
     </comp>
-    <comp lib="0" loc="(1330,900)" name="Tunnel">
+    <comp lib="4" loc="(790,520)" name="Register">
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s7"/>
+      <a name="label" val="Reg$t1"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(1070,780)" name="Tunnel">
+    <comp lib="0" loc="(1850,460)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s2"/>
+      <a name="label" val="Read Data 1"/>
+      <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(810,660)" name="Tunnel">
+    <comp lib="0" loc="(1240,430)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $a3"/>
+    </comp>
+    <comp lib="0" loc="(460,550)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t0"/>
+    </comp>
+    <comp lib="0" loc="(150,710)" name="Tunnel">
+      <a name="label" val="WR - $a2"/>
+    </comp>
+    <comp lib="0" loc="(720,550)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t1"/>
+    </comp>
+    <comp lib="0" loc="(1330,740)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t5"/>
+      <a name="label" val="RR1 - $s3"/>
     </comp>
-    <comp loc="(1270,400)" name="WR Selector"/>
-    <comp lib="0" loc="(150,870)" name="Tunnel">
-      <a name="label" val="WR - $s6"/>
-    </comp>
-    <comp lib="0" loc="(1070,1140)" name="Tunnel">
+    <comp lib="0" loc="(1550,370)" name="Tunnel">
+      <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $fp"/>
+      <a name="label" val="RR1 - $t8"/>
     </comp>
-    <comp loc="(750,880)" name="WR Selector"/>
-    <comp lib="0" loc="(150,770)" name="Tunnel">
-      <a name="label" val="WR - $t4"/>
+    <comp lib="4" loc="(790,880)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$s5"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1070,980)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $k0"/>
+    </comp>
+    <comp lib="0" loc="(550,420)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $a0"/>
+    </comp>
+    <comp lib="6" loc="(940,18)" name="Text">
+      <a name="text" val="These are DEBUG/TEST outputs from your circuit."/>
+    </comp>
+    <comp lib="0" loc="(810,860)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s5"/>
+    </comp>
+    <comp lib="2" loc="(1680,290)" name="Multiplexer">
+      <a name="select" val="5"/>
+      <a name="width" val="32"/>
+      <a name="enable" val="false"/>
+    </comp>
+    <comp lib="0" loc="(810,500)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t1"/>
+    </comp>
+    <comp lib="0" loc="(1070,740)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s2"/>
+    </comp>
+    <comp lib="0" loc="(1550,430)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $fp"/>
+    </comp>
+    <comp lib="4" loc="(1310,1120)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$ra"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1850,560)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="label" val="Read Data 2"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(1620,620)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $a1"/>
+    </comp>
+    <comp lib="0" loc="(770,550)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(1620,660)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t1"/>
+    </comp>
+    <comp lib="0" loc="(1080,160)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$ra Value"/>
+    </comp>
+    <comp lib="0" loc="(1290,310)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp loc="(1010,760)" name="WR Selector"/>
+    <comp lib="4" loc="(790,280)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$at"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
     <comp lib="0" loc="(1330,500)" name="Tunnel">
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $t3"/>
     </comp>
-    <comp lib="0" loc="(150,690)" name="Tunnel">
-      <a name="label" val="WR - $a0"/>
+    <comp lib="0" loc="(1290,790)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
     </comp>
-    <comp lib="0" loc="(810,300)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $at"/>
-    </comp>
-    <comp lib="0" loc="(220,680)" name="Tunnel">
-      <a name="label" val="WR - $v1"/>
-    </comp>
-    <comp lib="0" loc="(980,520)" name="Tunnel">
+    <comp loc="(490,1120)" name="WR Selector"/>
+    <comp lib="0" loc="(460,400)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(810,980)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t9"/>
     </comp>
     <comp lib="0" loc="(1620,820)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="RR2 - $t9"/>
     </comp>
-    <comp loc="(490,760)" name="WR Selector"/>
-    <comp lib="0" loc="(900,130)" name="Pin">
+    <comp lib="0" loc="(810,900)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s5"/>
+    </comp>
+    <comp lib="0" loc="(810,130)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="width" val="32"/>
-      <a name="label" val="$s1 Value"/>
+      <a name="label" val="$s0 Value"/>
       <a name="labelloc" val="north"/>
     </comp>
-    <comp lib="2" loc="(90,810)" name="Demultiplexer">
-      <a name="select" val="5"/>
+    <comp loc="(490,520)" name="WR Selector"/>
+    <comp lib="4" loc="(1310,640)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$t7"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
+    <comp loc="(1270,1000)" name="WR Selector"/>
+    <comp lib="0" loc="(770,1030)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(210,510)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="Clock"/>
+    </comp>
+    <comp lib="0" loc="(1070,660)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t6"/>
+    </comp>
+    <comp lib="0" loc="(550,300)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $0 "/>
+    </comp>
+    <comp lib="0" loc="(1620,800)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s7"/>
+    </comp>
+    <comp lib="0" loc="(1620,920)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="label" val="read_reg2"/>
+    </comp>
+    <comp lib="0" loc="(1330,780)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s3"/>
+    </comp>
+    <comp lib="0" loc="(150,790)" name="Tunnel">
+      <a name="label" val="WR - $t6"/>
+    </comp>
+    <comp lib="0" loc="(1070,900)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s6"/>
+    </comp>
+    <comp lib="0" loc="(810,300)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $at"/>
+    </comp>
+    <comp lib="0" loc="(1070,420)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $a2"/>
+    </comp>
+    <comp lib="0" loc="(1030,310)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(150,690)" name="Tunnel">
+      <a name="label" val="WR - $a0"/>
+    </comp>
+    <comp lib="0" loc="(1620,700)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t5"/>
+    </comp>
+    <comp lib="0" loc="(720,670)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t5"/>
+    </comp>
+    <comp lib="0" loc="(230,250)" name="Tunnel">
+      <a name="width" val="5"/>
+      <a name="label" val="read_reg2"/>
+    </comp>
+    <comp lib="0" loc="(1290,670)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(720,640)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(720,910)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $s5"/>
+    </comp>
+    <comp lib="0" loc="(1070,300)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $v0"/>
+    </comp>
+    <comp lib="0" loc="(980,880)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(510,670)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(900,160)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s1 Value"/>
+    </comp>
+    <comp lib="0" loc="(480,280)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp loc="(490,400)" name="WR Selector"/>
+    <comp lib="0" loc="(1620,860)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $sp"/>
+    </comp>
+    <comp lib="0" loc="(1550,810)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t8"/>
+    </comp>
+    <comp lib="0" loc="(1620,280)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t7"/>
+    </comp>
+    <comp lib="0" loc="(980,1030)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $k0"/>
+    </comp>
+    <comp lib="0" loc="(1550,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $a0"/>
+    </comp>
+    <comp lib="0" loc="(150,950)" name="Tunnel">
+      <a name="label" val="WR - $fp"/>
+    </comp>
+    <comp lib="4" loc="(530,880)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$s4"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(990,130)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s2 Value"/>
+      <a name="labelloc" val="north"/>
+    </comp>
+    <comp lib="0" loc="(220,780)" name="Tunnel">
+      <a name="label" val="WR - $t5"/>
+    </comp>
+    <comp lib="0" loc="(1620,720)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t7"/>
+    </comp>
+    <comp lib="4" loc="(790,760)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$s1"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(550,860)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s4"/>
+    </comp>
+    <comp lib="0" loc="(150,650)" name="Tunnel">
+      <a name="label" val="WR - $0 "/>
+    </comp>
+    <comp loc="(1010,1000)" name="WR Selector"/>
     <comp lib="0" loc="(460,430)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="WR - $a0"/>
     </comp>
-    <comp lib="0" loc="(1550,190)" name="Tunnel">
+    <comp loc="(750,640)" name="WR Selector"/>
+    <comp lib="0" loc="(1100,720)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s2 Value"/>
+    </comp>
+    <comp lib="0" loc="(810,1020)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t9"/>
+    </comp>
+    <comp lib="4" loc="(1310,1000)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$k1"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(550,900)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s4"/>
+    </comp>
+    <comp lib="0" loc="(770,670)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(1550,730)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR1 - $a2"/>
+      <a name="label" val="RR2 - $s0"/>
+    </comp>
+    <comp lib="0" loc="(1550,630)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $a2"/>
+    </comp>
+    <comp lib="0" loc="(980,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp loc="(1270,880)" name="WR Selector"/>
+    <comp lib="0" loc="(720,280)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="4" loc="(530,1000)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$t8"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(510,1150)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(1240,670)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t7"/>
+    </comp>
+    <comp lib="0" loc="(810,980)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t9"/>
+    </comp>
+    <comp lib="0" loc="(1620,200)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $a3"/>
+    </comp>
+    <comp loc="(1010,280)" name="WR Selector"/>
+    <comp lib="0" loc="(1550,330)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s4"/>
+    </comp>
+    <comp lib="0" loc="(1030,910)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(1330,660)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t7"/>
+    </comp>
+    <comp lib="0" loc="(1630,480)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="label" val="read_reg1"/>
+    </comp>
+    <comp lib="0" loc="(1240,760)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(990,160)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s2 Value"/>
+    </comp>
+    <comp lib="0" loc="(810,160)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s0 Value"/>
+    </comp>
+    <comp lib="0" loc="(720,1000)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(1550,610)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $a0"/>
+    </comp>
+    <comp lib="0" loc="(1360,1080)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$ra Value"/>
+    </comp>
+    <comp lib="0" loc="(220,840)" name="Tunnel">
+      <a name="label" val="WR - $s3"/>
+    </comp>
+    <comp lib="0" loc="(720,880)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(220,820)" name="Tunnel">
+      <a name="label" val="WR - $s1"/>
     </comp>
     <comp lib="0" loc="(1240,1120)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1713,204 +1585,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="Reg$t0"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(1620,340)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp lib="4" loc="(1050,280)" name="Register">
       <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s5"/>
-    </comp>
-    <comp lib="0" loc="(720,1030)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t9"/>
-    </comp>
-    <comp lib="0" loc="(1620,160)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $v1"/>
-    </comp>
-    <comp lib="0" loc="(1550,390)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $k0"/>
-    </comp>
-    <comp lib="0" loc="(770,1030)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(1550,290)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s0"/>
-    </comp>
-    <comp lib="0" loc="(1620,200)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $a3"/>
-    </comp>
-    <comp lib="0" loc="(550,1020)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t8"/>
-    </comp>
-    <comp lib="0" loc="(1550,610)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $a0"/>
-    </comp>
-    <comp lib="0" loc="(810,900)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s5"/>
-    </comp>
-    <comp lib="0" loc="(1620,780)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s5"/>
-    </comp>
-    <comp lib="0" loc="(900,160)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s1 Value"/>
-    </comp>
-    <comp lib="4" loc="(1050,1120)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$fp"/>
+      <a name="label" val="Reg$v0"/>
       <a name="labelfont" val="SansSerif bold 12"/>
     </comp>
-    <comp lib="0" loc="(840,720)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s1 Value"/>
-    </comp>
-    <comp lib="0" loc="(980,1030)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $k0"/>
-    </comp>
-    <comp lib="0" loc="(550,1100)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $gp"/>
-    </comp>
-    <comp lib="0" loc="(1550,710)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t6"/>
-    </comp>
-    <comp lib="0" loc="(720,310)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $at"/>
-    </comp>
-    <comp lib="4" loc="(790,880)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s5"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1330,1100)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $ra"/>
-    </comp>
-    <comp lib="0" loc="(1290,670)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(460,1030)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t8"/>
-    </comp>
-    <comp lib="0" loc="(980,430)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $a2"/>
-    </comp>
-    <comp lib="0" loc="(1620,700)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t5"/>
-    </comp>
-    <comp lib="4" loc="(1050,760)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s2"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="4" loc="(1310,640)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$t7"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1630,480)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="5"/>
-      <a name="label" val="read_reg1"/>
-    </comp>
-    <comp lib="0" loc="(1070,540)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t2"/>
-    </comp>
-    <comp lib="0" loc="(1550,210)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t0"/>
-    </comp>
-    <comp lib="0" loc="(980,1150)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $fp"/>
-    </comp>
-    <comp lib="0" loc="(720,760)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="4" loc="(530,1120)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$gp"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1620,800)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s7"/>
-    </comp>
-    <comp lib="0" loc="(1550,590)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $v0"/>
-    </comp>
-    <comp lib="0" loc="(1620,440)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $ra"/>
-    </comp>
-    <comp lib="0" loc="(1290,910)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(770,1150)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp loc="(1010,880)" name="WR Selector"/>
-    <comp loc="(1270,880)" name="WR Selector"/>
-    <comp lib="0" loc="(1720,730)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="read_data2"/>
-    </comp>
-    <comp lib="0" loc="(1330,300)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $v1"/>
-    </comp>
-    <comp lib="0" loc="(150,850)" name="Tunnel">
-      <a name="label" val="WR - $s4"/>
-    </comp>
-    <comp lib="0" loc="(1240,640)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="write_data"/>
-    </comp>
-    <comp lib="0" loc="(980,310)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $v0"/>
-    </comp>
-    <comp lib="0" loc="(1290,430)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp loc="(490,520)" name="WR Selector"/>
-    <comp lib="0" loc="(1240,400)" name="Tunnel">
+    <comp lib="0" loc="(720,520)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
@@ -1920,134 +1600,459 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="32"/>
       <a name="label" val="RR2 - $ra"/>
     </comp>
-    <comp lib="0" loc="(1550,250)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp loc="(1270,280)" name="WR Selector"/>
+    <comp lib="0" loc="(1330,1140)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="RR1 - $t4"/>
+      <a name="label" val="RR2 - $ra"/>
     </comp>
-    <comp lib="0" loc="(1620,680)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t3"/>
-    </comp>
-    <comp lib="0" loc="(1550,350)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s6"/>
-    </comp>
-    <comp loc="(1010,640)" name="WR Selector"/>
-    <comp lib="0" loc="(1070,740)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s2"/>
-    </comp>
-    <comp lib="4" loc="(1050,880)" name="Register">
-      <a name="width" val="32"/>
-      <a name="label" val="Reg$s6"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-    </comp>
-    <comp lib="0" loc="(1620,400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $k1"/>
-    </comp>
-    <comp lib="0" loc="(150,930)" name="Tunnel">
-      <a name="label" val="WR - $gp"/>
-    </comp>
-    <comp lib="0" loc="(770,910)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="0" loc="(220,920)" name="Tunnel">
-      <a name="label" val="WR - $k1"/>
-    </comp>
-    <comp lib="0" loc="(1620,760)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $s3"/>
-    </comp>
-    <comp lib="0" loc="(1240,550)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="WR - $t3"/>
-    </comp>
-    <comp lib="0" loc="(1620,360)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s7"/>
+    <comp lib="0" loc="(220,660)" name="Tunnel">
+      <a name="label" val="WR - $at"/>
     </comp>
     <comp lib="0" loc="(80,1010)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="5"/>
       <a name="label" val="write_reg"/>
     </comp>
-    <comp lib="0" loc="(810,740)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR1 - $s1"/>
-    </comp>
-    <comp lib="0" loc="(980,400)" name="Tunnel">
+    <comp lib="0" loc="(980,280)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
     </comp>
-    <comp lib="0" loc="(1330,1020)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $k1"/>
-    </comp>
-    <comp lib="0" loc="(550,1140)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $gp"/>
-    </comp>
-    <comp lib="0" loc="(720,880)" name="Tunnel">
+    <comp lib="0" loc="(720,1120)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
     </comp>
-    <comp lib="0" loc="(810,540)" name="Tunnel">
-      <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t1"/>
+    <comp loc="(750,1120)" name="WR Selector"/>
+    <comp lib="0" loc="(220,700)" name="Tunnel">
+      <a name="label" val="WR - $a1"/>
     </comp>
-    <comp lib="0" loc="(990,160)" name="Tunnel">
+    <comp lib="0" loc="(1620,780)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s5"/>
+    </comp>
+    <comp lib="0" loc="(1720,730)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="read_data2"/>
+    </comp>
+    <comp lib="0" loc="(1240,790)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $s3"/>
+    </comp>
+    <comp loc="(1270,400)" name="WR Selector"/>
+    <comp lib="4" loc="(1310,760)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$s3"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp loc="(1270,760)" name="WR Selector"/>
+    <comp lib="0" loc="(460,670)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t4"/>
+    </comp>
+    <comp lib="4" loc="(530,1120)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$gp"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1550,350)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s6"/>
+    </comp>
+    <comp lib="0" loc="(1330,540)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t3"/>
+    </comp>
+    <comp lib="0" loc="(1620,240)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t3"/>
+    </comp>
+    <comp lib="0" loc="(980,640)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(1550,390)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $k0"/>
+    </comp>
+    <comp loc="(490,640)" name="WR Selector"/>
+    <comp lib="0" loc="(510,910)" name="Tunnel">
       <a name="facing" val="north"/>
-      <a name="width" val="32"/>
-      <a name="label" val="$s2 Value"/>
+      <a name="label" val="clk"/>
     </comp>
-    <comp loc="(750,280)" name="WR Selector"/>
+    <comp lib="0" loc="(460,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(1330,900)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s7"/>
+    </comp>
+    <comp lib="0" loc="(1240,1000)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(1550,790)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s6"/>
+    </comp>
+    <comp lib="2" loc="(90,810)" name="Demultiplexer">
+      <a name="select" val="5"/>
+    </comp>
+    <comp lib="0" loc="(1550,410)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $gp"/>
+    </comp>
+    <comp lib="0" loc="(1070,1140)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $fp"/>
+    </comp>
+    <comp lib="0" loc="(720,1150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $sp"/>
+    </comp>
+    <comp lib="0" loc="(1550,750)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s2"/>
+    </comp>
+    <comp lib="0" loc="(220,900)" name="Tunnel">
+      <a name="label" val="WR - $t9"/>
+    </comp>
+    <comp lib="0" loc="(1070,260)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $v0 "/>
+    </comp>
+    <comp lib="6" loc="(149,163)" name="Text">
+      <a name="text" val="INPUTS to your circuit"/>
+    </comp>
     <comp lib="0" loc="(980,1120)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(980,1000)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(840,720)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s1 Value"/>
+    </comp>
+    <comp lib="0" loc="(220,760)" name="Tunnel">
+      <a name="label" val="WR - $t3"/>
+    </comp>
+    <comp lib="0" loc="(1330,1100)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $ra"/>
+    </comp>
+    <comp loc="(750,760)" name="WR Selector"/>
+    <comp lib="0" loc="(150,890)" name="Tunnel">
+      <a name="label" val="WR - $t8"/>
+    </comp>
+    <comp lib="0" loc="(770,790)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(220,860)" name="Tunnel">
+      <a name="label" val="WR - $s5"/>
+    </comp>
+    <comp lib="0" loc="(550,540)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t0"/>
+    </comp>
+    <comp lib="0" loc="(900,130)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s1 Value"/>
+      <a name="labelloc" val="north"/>
+    </comp>
+    <comp lib="0" loc="(460,1000)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="4" loc="(1310,400)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$a3"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1240,280)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(460,1120)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(1550,850)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $gp"/>
+    </comp>
+    <comp lib="0" loc="(1620,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $at"/>
+    </comp>
+    <comp lib="0" loc="(550,380)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $a0"/>
+    </comp>
+    <comp lib="0" loc="(220,920)" name="Tunnel">
+      <a name="label" val="WR - $k1"/>
+    </comp>
+    <comp lib="0" loc="(1550,190)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $a2"/>
+    </comp>
+    <comp lib="0" loc="(460,910)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $s4"/>
+    </comp>
+    <comp lib="0" loc="(550,1020)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $t8"/>
+    </comp>
+    <comp lib="0" loc="(1330,980)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $k1"/>
+    </comp>
+    <comp lib="0" loc="(1550,570)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $0 "/>
+    </comp>
+    <comp lib="4" loc="(1050,880)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$s6"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1620,300)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s1"/>
+    </comp>
+    <comp lib="0" loc="(550,740)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $s0"/>
+    </comp>
+    <comp lib="0" loc="(150,770)" name="Tunnel">
+      <a name="label" val="WR - $t4"/>
     </comp>
     <comp lib="0" loc="(1550,230)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $t2"/>
     </comp>
-    <comp lib="0" loc="(1550,650)" name="Tunnel">
+    <comp lib="0" loc="(1330,420)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $a3"/>
+    </comp>
+    <comp lib="0" loc="(1030,790)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(510,550)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(770,910)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp loc="(1010,520)" name="WR Selector"/>
+    <comp lib="0" loc="(1240,1030)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $k1"/>
+    </comp>
+    <comp lib="6" loc="(525,78)" name="Text">
+      <a name="text" val="DON'T CHANGE THE LOCATIONS OF THE INPUTS AND OUTPUTS!"/>
+    </comp>
+    <comp lib="0" loc="(1620,260)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
-      <a name="label" val="RR2 - $t0"/>
+      <a name="label" val="RR1 - $t5"/>
     </comp>
-    <comp lib="0" loc="(1240,760)" name="Tunnel">
+    <comp lib="0" loc="(1070,500)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t2"/>
+    </comp>
+    <comp lib="0" loc="(1620,440)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $ra"/>
+    </comp>
+    <comp loc="(1010,400)" name="WR Selector"/>
+    <comp lib="0" loc="(1080,130)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$ra Value"/>
+      <a name="labelloc" val="north"/>
+    </comp>
+    <comp lib="4" loc="(790,1000)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$t9"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(230,460)" name="Tunnel">
+      <a name="label" val="write_en"/>
+    </comp>
+    <comp lib="4" loc="(790,1120)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$sp"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="4" loc="(530,400)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$a0"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(1240,400)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(1550,870)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $fp"/>
+    </comp>
+    <comp lib="0" loc="(1620,220)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t1"/>
+    </comp>
+    <comp lib="0" loc="(720,400)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="0" loc="(550,780)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s0"/>
+    </comp>
+    <comp lib="0" loc="(220,680)" name="Tunnel">
+      <a name="label" val="WR - $v1"/>
+    </comp>
+    <comp lib="0" loc="(1620,760)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s3"/>
+    </comp>
+    <comp lib="0" loc="(1550,210)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t0"/>
+    </comp>
+    <comp lib="0" loc="(1240,880)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp lib="4" loc="(790,400)" name="Register">
+      <a name="width" val="32"/>
+      <a name="label" val="Reg$a1"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(550,1100)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $gp"/>
+    </comp>
+    <comp loc="(750,520)" name="WR Selector"/>
+    <comp lib="0" loc="(150,730)" name="Tunnel">
+      <a name="label" val="WR - $t0"/>
+    </comp>
+    <comp lib="0" loc="(1330,620)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $t7"/>
+    </comp>
+    <comp lib="0" loc="(580,720)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="$s0 Value"/>
+    </comp>
+    <comp lib="0" loc="(230,300)" name="Tunnel">
+      <a name="width" val="5"/>
+      <a name="label" val="write_reg"/>
+    </comp>
+    <comp lib="0" loc="(1030,1150)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+    </comp>
+    <comp lib="0" loc="(1550,830)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $k0"/>
+    </comp>
+    <comp lib="0" loc="(1070,780)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $s2"/>
+    </comp>
+    <comp lib="0" loc="(1620,160)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $v1"/>
+    </comp>
+    <comp loc="(490,880)" name="WR Selector"/>
+    <comp lib="0" loc="(1070,1020)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $k0"/>
+    </comp>
+    <comp lib="0" loc="(1240,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="write_data"/>
+    </comp>
+    <comp loc="(1010,880)" name="WR Selector"/>
+    <comp lib="0" loc="(460,1030)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t8"/>
     </comp>
     <comp lib="0" loc="(1620,380)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="32"/>
       <a name="label" val="RR1 - $t9"/>
     </comp>
-    <comp loc="(1010,1120)" name="WR Selector"/>
-    <comp lib="0" loc="(150,790)" name="Tunnel">
-      <a name="label" val="WR - $t6"/>
-    </comp>
-    <comp lib="0" loc="(1030,670)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="clk"/>
-    </comp>
-    <comp lib="4" loc="(490,280)" name="Register">
+    <comp loc="(750,1000)" name="WR Selector"/>
+    <comp lib="0" loc="(550,1140)" name="Tunnel">
       <a name="width" val="32"/>
-      <a name="label" val="Reg $0"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
+      <a name="label" val="RR2 - $gp"/>
+    </comp>
+    <comp lib="2" loc="(1680,730)" name="Multiplexer">
+      <a name="select" val="5"/>
+      <a name="width" val="32"/>
+      <a name="enable" val="false"/>
+    </comp>
+    <comp lib="0" loc="(1550,590)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR2 - $v0"/>
+    </comp>
+    <comp lib="0" loc="(1620,140)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RR1 - $at"/>
+    </comp>
+    <comp lib="0" loc="(980,550)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="WR - $t2"/>
     </comp>
   </circuit>
   <circuit name="WR Selector">
@@ -2062,15 +2067,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <circ-port height="8" pin="510,340" width="8" x="56" y="66"/>
       <circ-anchor facing="east" height="6" width="6" x="67" y="57"/>
     </appear>
+    <wire from="(360,320)" to="(500,320)"/>
     <wire from="(530,310)" to="(670,310)"/>
     <wire from="(510,330)" to="(510,340)"/>
-    <wire from="(360,320)" to="(500,320)"/>
-    <comp lib="0" loc="(510,340)" name="Pin">
-      <a name="facing" val="north"/>
-      <a name="tristate" val="false"/>
-      <a name="label" val="WR?"/>
-      <a name="labelloc" val="east"/>
-    </comp>
     <comp lib="0" loc="(670,310)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -2078,14 +2077,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="Write Output"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="2" loc="(530,310)" name="Multiplexer">
-      <a name="width" val="32"/>
-      <a name="enable" val="false"/>
-    </comp>
     <comp lib="0" loc="(360,320)" name="Pin">
       <a name="width" val="32"/>
       <a name="tristate" val="false"/>
       <a name="label" val="Write Input"/>
+    </comp>
+    <comp lib="0" loc="(510,340)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="WR?"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="2" loc="(530,310)" name="Multiplexer">
+      <a name="width" val="32"/>
+      <a name="enable" val="false"/>
     </comp>
   </circuit>
 </project>
