@@ -45,7 +45,7 @@ mf_re    = re.compile(r'''^(?P<instr>(mfhi|mflo))\s+(?P<rd>\$(0|zero|at|v[0,1]|a
 #sll srl sra
 shift_re  = re.compile(r'''^(?P<instr>(sll|srl|sra))\s+(?P<rd>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|fp|sp|ra))\s+(?P<rt>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|fp|sp|ra))\s+(?P<immed>-?(0x)?[0-9a-fA-F]+)$''')
 #ori addi addiu andi
-immed_re  = re.compile(r'''^(?P<instr>(ori|addi|addiu|andi))\s+(?P<rt>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|fp|sp|ra))\s+(?P<rs>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|sp|fp|ra))\s+(?P<immed>-?(0x)?[0-9a-fA-F]+)$''')
+immed_re  = re.compile(r'''^(?P<instr>(ori|addi|addiu|andi|slti))\s+(?P<rt>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|fp|sp|ra))\s+(?P<rs>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|sp|fp|ra))\s+(?P<immed>-?(0x)?[0-9a-fA-F]+)$''')
 #lui
 lui_re    = re.compile(r'''^(?P<instr>lui)\s+(?P<rt>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|fp|sp|ra))\s+(?P<immed>-?(0x)?[0-9a-fA-F]+)$''')
 #sw lw sb lb lbu sh lhu swinc
@@ -69,6 +69,7 @@ opcodes = {
   'bne':0x5,
   'addi':0x8,
   'addiu':0x9,
+  'slti': 0xa,
   'andi':0xc,
   'ori':0xd,
   'sw':0x2b,
@@ -289,7 +290,6 @@ def assemble_instructions(inputFile):
         thisInstruction = instructionsSeen
         if thisInstruction & 0x3000000 != instructionNo & 0x3000000:
           raise AssemblerRangeError(lineNo,"label %s is in another jump zone (instr: %04x, target:%04x)" % (label,thisInstruction,instructionNo))
-        instructionNo += 0x100000
         num = opcode << 26 | (instructionNo & 0x3FFFFFF)
         debug("instruction: %s addr: %d num: %04x" % (instruction,instructionNo & 0x3FFFFFF,num))
       elif branch:
