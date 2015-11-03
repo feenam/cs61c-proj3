@@ -58,7 +58,7 @@ branch_re = re.compile(r'''^(?P<instr>(beq|beqal|bne))\s+(?P<rs>\$(0|zero|at|v[0
 jr_re     = re.compile(r'''^(?P<instr>(jr))\s+(?P<rs>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|fp|sp|ra))$''')
 #la
 la_re     = re.compile(r'''^(?P<instr>(la))\s+(?P<rt>\$(0|zero|at|v[0,1]|a[0-3]|t[0-9]|s[0-7]|k[0-1]|gp|fp|sp|ra))\s+(?P<label>\w+)$''')
-signed_re = re.compile(r'addi|addiu|beq|beqal|bne|lw|sw|sb|lb|lbu|sh|lhu|swinc')
+signed_re = re.compile(r'addi|addiu|beq|beqal|bne|lw|sw|sb|lb|lbu|sh|lhu|swinc|slti')
 both_allowed_re = re.compile(r'ori|andi')
 
 opcodes = {
