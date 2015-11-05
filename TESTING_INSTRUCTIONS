@@ -1,0 +1,18 @@
+TESTING INSTRUCTIONS:
+
+To test your CPU, run "make cpu"
+This will dump a logfile called 'TEST_LOG' in the current directory. To view the 
+content, run "cat TEST_LOG". 
+
+In the logfile you will see a chart where the columns are different circuit outputs,
+and the rows are your circuit's outputs at the different clock cycles. If your output 
+differs from the expected output, your output will appear with "***" in the front,
+and the reference output will appear directly below with "REF" in the front. 
+
+Logfiles are overwritten every time you run a test.
+
+You can find the content of the tests in MIPS in the "tests/assem" folder
+or in machine code in the "tests/hex" folder
+
+To step through the tests manually, open the corresponding "CPU-..." file
+once you've copied your latest version of your CPU into the "tests" folder.
